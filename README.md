@@ -16,7 +16,7 @@ Automatically reconnects your computer to a designated WiFi connection every arb
 4.) Optionally, set the interval you want it to repeat after "timeout". The integer that follows is in seconds. <br>
 &emsp; By default, the script is set to execute every 30 minutes. <br>
 5.) Save the file, and rename the file extension to .bat. <br>
-6.) Open the file to start the script. <br>
+6.) Open the file as an Administrator (required permission to reset the network adapter) to start the script. <br>
 
 ## Contributing
 
