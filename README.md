@@ -2,7 +2,8 @@
   <h3>Auto Reconnect Wi-Fi</h3>
   <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi"><br>
   
-  ![GitHub Repo stars](https://img.shields.io/github/stars/Bam6561/AutoReconnectWi-Fi) ![GitHub](https://img.shields.io/github/license/Bam6561/AutoReconnectWi-Fi)
+  [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
+  
 </div>
 
 ## About The Project
@@ -32,3 +33,8 @@ Project Link: <https://github.com/Bam6561/AutoReconnectWi-Fi>
 
 ## Acknowledgements
 * [README Template](https://github.com/othneildrew/Best-README-Template)
+
+[stars-shield]: https://img.shields.io/github/stars/Bam6561/AutoReconnectWi-Fi
+[stars-url]: https://github.com/Bam6561/AutoReconnectWi-Fi/stargazers
+[license-shield]: https://img.shields.io/github/license/Bam6561/AutoReconnectWi-Fi
+[license-url]: https://github.com/Bam6561/AutoReconnectWi-Fi/blob/main/LICENSE
