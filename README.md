@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Auto Reconnect Wi-Fi</h3>
-  <img src="https://i.ibb.co/Lny9TPG/auto-Reconnect-Wi-Fi128x128.png" alt="auto-Reconnect-Wi-Fi">
+  <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="auto-Reconnect-Wi-Fi">
 </div>
 
 ## About The Project
