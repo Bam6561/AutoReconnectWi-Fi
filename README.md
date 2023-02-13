@@ -1,6 +1,8 @@
 <div align="center">
   <h3>Auto Reconnect Wi-Fi</h3>
-  <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi">
+  <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi"><br>
+  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/Bam6561/AutoReconnectWi-Fi) ![GitHub](https://img.shields.io/github/license/Bam6561/AutoReconnectWi-Fi)
 </div>
 
 ## About The Project
