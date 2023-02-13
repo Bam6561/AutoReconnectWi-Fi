@@ -1,42 +1,32 @@
-# AutoReconnectWiFi
+<div align="center">
+  <h3>Auto Reconnect Wi-Fi</h3>
+  <img src="https://i.ibb.co/Lny9TPG/auto-Reconnect-Wi-Fi128x128.png" alt="auto-Reconnect-Wi-Fi">
+</div>
 
 ## About The Project
-
-Automatically reconnects your computer to a designated WiFi connection every arbitrary interval if it's not connected to the internet. 
-
-### Built With
-
-[Batch Script](https://www.tutorialspoint.com/batch_script/index.htm)
+Automatically reconnects your computer to a designated Wi-Fi network every arbitrary interval if it's not connected to the internet.
 
 ## Setup
-
-1.) Copy AutoReconnectWiFi.bat's text. <br>
-2.) Paste into any text editor. <br>
-3.) Change the ```WIFI_NAME``` surrounded by quotation marks to your desired WiFi connection. <br>
-4.) Optionally, set the interval you want it to repeat after "timeout". The integer that follows is in seconds. <br>
-&emsp; By default, the script is set to execute every 30 minutes. <br>
-5.) Save the file, and rename the file extension to .bat. <br>
-6.) Open the file as an Administrator (required permission to reset the network adapter) to start the script. <br>
+1. Copy AutoReconnectWi-Fi.bat's text and paste it into any text editor of your choosing.
+3. Rename the `WI-FI_NETWORK_NAME` placeholder to your desired Wi-Fi connection. Keep the name enclosed in quotation marks.
+4. Optionally, set the interval of how often (in seconds) you want the script to repeat by adjusting the integer that follows after the "timeout" command. By default, the script is set to execute every 15 minutes.
+5. Save the file, and rename the file extension to .bat.
+6. Run the file as an administrator (this is a required permission to restart the network adapter).
 
 ## Contributing
-
-<ol>
-  <li> Fork the Project </li>
-  <li> Create your Feature Branch  </li>
-  <li> Commit your Changes  </li>
-  <li> Push to the Branch  </li>
-  <li> Open a Pull Request </li>
-</ol>
+1. Fork the Project
+2. Create your Feature Branch
+3. Commit your Changes
+4. Push to the Branch
+5. Open a Pull Request
 
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
-Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com <br>
-Project Link: https://github.com/ndanny09/AutoReconnectWiFi
+Project Link: <https://github.com/Bam6561/AutoReconnectWi-Fi>
 
 ## Acknowledgements
-
-* [README Template](https://github.com/othneildrew/Best-README-Template#prerequisites)
+* [README Template](https://github.com/othneildrew/Best-README-Template)
