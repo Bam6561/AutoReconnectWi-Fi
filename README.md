@@ -7,7 +7,7 @@
 </div>
 
 ## About The Project
-Automatically reconnects your computer to a designated Wi-Fi network every arbitrary interval if it's not connected to the internet.
+Automatically reconnects computer to a Wi-Fi network if it's not connected to the internet.
 
 ## Setup
 1. Copy AutoReconnectWi-Fi.bat's text and paste it into any text editor of your choosing.
