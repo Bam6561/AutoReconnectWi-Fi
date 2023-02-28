@@ -18,5 +18,5 @@ if errorlevel 1 (
 )
 
 ::loop interval (in seconds)
-timeout 1800
+timeout 900
 goto :autoReconnectWi-Fi
