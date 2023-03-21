@@ -25,7 +25,7 @@
 ## About The Project
 Automatically reconnects computer to a Wi-Fi network if it's not connected to the internet.
 
-<p align="right"><a href="#top">Go to Top</a></p>  
+<p align="right"><a href="#top">Back to Top</a></p>  
   
 <!-- SETUP -->
 ## Setup
@@ -35,7 +35,7 @@ Automatically reconnects computer to a Wi-Fi network if it's not connected to th
 5. Save the file, and rename the file extension to .bat.
 6. Run the file as an administrator (this is a required permission to restart the network adapter).
 
-<p align="right"><a href="#top">Go to Top</a></p>  
+<p align="right"><a href="#top">Back to Top</a></p>  
   
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -45,13 +45,13 @@ Automatically reconnects computer to a Wi-Fi network if it's not connected to th
 4. Push to the Branch
 5. Open a Pull Request
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
   
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="right"><a href="#top">Go to Top</a></p>
+<p align="right"><a href="#top">Back to Top</a></p>
   
 <!-- CONTACT -->
 ## Contact
@@ -59,13 +59,13 @@ Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmai
 
 Project Link: <https://github.com/Bam6561/AutoReconnectWi-Fi>
 
-<p align="right"><a href="#top">Go to Top</a></p>  
+<p align="right"><a href="#top">Back to Top</a></p>  
   
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 
-<p align="right"><a href="#top">Go to Top</a></p>  
+<p align="right"><a href="#top">Back to Top</a></p>  
   
 <!-- SHIELDS -->
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AutoReconnectWi-Fi
