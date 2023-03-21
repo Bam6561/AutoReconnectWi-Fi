@@ -19,8 +19,6 @@
     <li><a href="#contact"> Contact <a/></li>
     <li><a href="#acknowledgements"> Acknowledgements </li>
 </details>
-
-<p align="right"><a href="#top">Go to Top</a></p>  
   
 <!-- ABOUT THE PROJECT -->
 ## About The Project
