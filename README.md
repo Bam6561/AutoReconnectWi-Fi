@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <h3>Auto Reconnect Wi-Fi</h3>
   <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi"><br>
@@ -6,9 +8,23 @@
   
 </div>
 
+<!-- TABLE OF CONTENTS -->
+<details> 
+  <summary><b> Table of Contents </b></summary>
+  <ol>
+    <li><a href="#about-the-project"> About The Project </a></li>
+    <li><a href="#setup"> Setup </a></li>
+    <li><a href="#contributing"> Contributing </a></li>
+    <li><a href="#license"> License </a></li>
+    <li><a href="#contact"> Contact <a/></li>
+    <li><a href="#acknowledgements"> Acknowledgements </li>
+</details>
+
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 Automatically reconnects computer to a Wi-Fi network if it's not connected to the internet.
 
+<!-- SETUP -->
 ## Setup
 1. Copy AutoReconnectWi-Fi.bat's text and paste it into any text editor of your choosing.
 3. Rename the `WI-FI_NETWORK_NAME` placeholder to your desired Wi-Fi connection. Keep the name enclosed in quotation marks.
@@ -16,6 +32,7 @@ Automatically reconnects computer to a Wi-Fi network if it's not connected to th
 5. Save the file, and rename the file extension to .bat.
 6. Run the file as an administrator (this is a required permission to restart the network adapter).
 
+<!-- CONTRIBUTING -->
 ## Contributing
 1. Fork the Project
 2. Create your Feature Branch
@@ -23,17 +40,21 @@ Automatically reconnects computer to a Wi-Fi network if it's not connected to th
 4. Push to the Branch
 5. Open a Pull Request
 
+<!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONTACT -->
 ## Contact
 Danny Nguyen - [LinkedIn](https://www.linkedin.com/in/ndanny09/) - ndanny09@gmail.com
 
 Project Link: <https://github.com/Bam6561/AutoReconnectWi-Fi>
 
+<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 
+<!-- SHIELDS -->
 [stars-shield]: https://img.shields.io/github/stars/Bam6561/AutoReconnectWi-Fi
 [stars-url]: https://github.com/Bam6561/AutoReconnectWi-Fi/stargazers
 [license-shield]: https://img.shields.io/github/license/Bam6561/AutoReconnectWi-Fi
