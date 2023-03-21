@@ -1,5 +1,6 @@
 <a name="top"></a>
 
+<!-- LOGO -->
 <div align="center">
   <h3>Auto Reconnect Wi-Fi</h3>
   <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi"><br>
