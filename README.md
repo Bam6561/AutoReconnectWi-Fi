@@ -6,11 +6,10 @@
   <img src="https://i.ibb.co/C2Smk50/auto-Reconnect-Wi-Fi128x128.png" alt="autoReconnectWi-Fi"><br>
   
   [![Stargazers][stars-shield]][stars-url] [![License][license-shield]][license-url]
-  
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details> 
+<details open> 
   <summary><b> Table of Contents </b></summary>
   <ol>
     <li><a href="#about-the-project"> About The Project </a></li>
@@ -19,6 +18,7 @@
     <li><a href="#license"> License </a></li>
     <li><a href="#contact"> Contact <a/></li>
     <li><a href="#acknowledgements"> Acknowledgements </li>
+  </ol>
 </details>
   
 <!-- ABOUT THE PROJECT -->
