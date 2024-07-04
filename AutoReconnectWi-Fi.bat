@@ -1,4 +1,4 @@
-:autoReconnectWi-Fi
+:reconnect
 ::check online connection
 ping google.com -n 1
 
@@ -19,4 +19,4 @@ if errorlevel 1 (
 
 ::loop interval (in seconds)
 timeout 900
-goto :autoReconnectWi-Fi
+goto :reconnect
